@@ -1,7 +1,7 @@
 flask
 pandas
 numpy
-matplotlib.pyplot
+matplotlib
 io
 base64
 scikit-learn
