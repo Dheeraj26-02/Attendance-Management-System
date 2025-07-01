@@ -2,11 +2,9 @@ flask
 pandas
 numpy
 matplotlib
-io
-base64
+
 scikit-learn
 qrcode
-os
+
 openpyxl
 flask_sqlalchemy
-sqlite3
