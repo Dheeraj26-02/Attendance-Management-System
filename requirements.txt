@@ -8,3 +8,4 @@ qrcode
 
 openpyxl
 flask_sqlalchemy
+gunicorn
