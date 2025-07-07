@@ -2,10 +2,8 @@ flask
 pandas
 numpy
 matplotlib
-
 scikit-learn
 qrcode
-
 openpyxl
 flask_sqlalchemy
 gunicorn
